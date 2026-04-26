@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Pallad0099.github.io/sitemap.xml
